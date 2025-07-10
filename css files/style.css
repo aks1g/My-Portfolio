@@ -921,7 +921,7 @@ body {
     animation: appearFromRight 3s linear forwards;
 }
 
-.footer-text h3 {
+.footer-text h5 {
     font-size: 22px;
     font-weight: 500;
     margin-bottom: 15px;
