@@ -983,6 +983,9 @@ body {
     padding-top: 20px;
     text-align: center;
     border-top: 1px solid #0d0d3ad4;
+}
+
+.footer-content h1{
     font-size: 15px;
 }
 
@@ -1410,7 +1413,7 @@ body {
         }
     }
 
-    .footer-content {
+    .footer-content h1{
         font-size: 12px;
     }
 }
