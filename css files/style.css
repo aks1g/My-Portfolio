@@ -437,7 +437,7 @@ body {
     padding-bottom: 30px;
 }
 
-.progress-bar h4 {
+.progress-bar h3 {
     font-size: 17px;
     margin-bottom: 15px;
 }
@@ -921,7 +921,7 @@ body {
     animation: appearFromRight 3s linear forwards;
 }
 
-.footer-text h5 {
+.footer-text h2 {
     font-size: 22px;
     font-weight: 500;
     margin-bottom: 15px;
