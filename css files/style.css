@@ -55,7 +55,7 @@ body {
 
 .nav-items a {
     font-size: 17px;
-    color: #271596;
+    color: #008cff;
     font-weight: 500;
     text-decoration: none;
 }
@@ -88,7 +88,7 @@ body {
     width: 29%;
     white-space: nowrap;
     overflow: hidden;
-    border-right: 3px solid #00017c;
+    border-right: 3px solid #008cff;
     animation: typing 2s steps(12),
         cursor 0.4s step-end infinite alternate;
 }
@@ -114,7 +114,7 @@ body {
 }
 
 .hero-text h5 {
-    color: #004aad;
+    color: #008cff;
     font-size: 17px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -131,7 +131,7 @@ body {
 }
 
 .hero-text span {
-    color: #004aad;
+    color: #008cff;
 }
 
 .hero-text a {
@@ -235,7 +235,7 @@ body {
     width: 0;
     white-space: nowrap;
     overflow: hidden;
-    border-right: 3px solid #00017c;
+    border-right: 3px solid #008cff;
 }
 
 .about-heading {
@@ -307,7 +307,7 @@ body {
 }
 
 .about-text span {
-    color: #00017c;
+    color: #008cff;
     font-size: 55px;
 }
 
@@ -832,7 +832,7 @@ body {
 }
 
 .project-text span {
-    color: #00017c;
+    color: #008cff;
 }
 
 .project-text p {
